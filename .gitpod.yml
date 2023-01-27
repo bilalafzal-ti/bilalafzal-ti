@@ -1,6 +1,6 @@
 image:
   file: .gitpod.Dockerfile
-arch: arm
+arch: x86
 
     
 # tasks:
@@ -9,5 +9,5 @@ arch: arm
 
 tasks:
   - name: multi-repo-test
-    command: echo "1. Main configuration file's task running 6"
+    command: echo "1. Main configuration file's task running 7"
 
