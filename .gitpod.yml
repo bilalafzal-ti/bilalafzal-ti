@@ -1,13 +1,8 @@
 image:
   file: .gitpod.Dockerfile
-arch: x86
-
-    
-# tasks:
-#   - name: multi-repo-test
-#     command: gp repo bilalafzal-ti/multi-repo-test
+arch: arm
 
 tasks:
-  - name: multi-repo-test
-    command: echo "1. Main configuration file's task running 8"
+  - name: main-shell
+    command: echo "Log: 9"
 
