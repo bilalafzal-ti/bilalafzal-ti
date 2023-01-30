@@ -1,8 +1,3 @@
 image:
   file: .gitpod.Dockerfile
 arch: arm
-
-tasks:
-  - name: main-shell
-    command: echo "Log: 9"
-
