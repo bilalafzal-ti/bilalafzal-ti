@@ -3,6 +3,4 @@ arch: x86
 
 tasks:
   - name: multi-repo-test
-    command: echo "58"
-
-
+    command: echo "59"
