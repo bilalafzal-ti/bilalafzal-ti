@@ -1,5 +1,5 @@
-arch: arm
-
+image: docker.io/devfactory/workspace-full:latest
+arch: x86
 
 tasks:
   - name: multi-repo-test
