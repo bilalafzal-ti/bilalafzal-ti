@@ -1,5 +1,3 @@
-image: devfactory/workspace-full:latest
-# image: ubuntu:latest
 arch: arm
 
 tasks:
