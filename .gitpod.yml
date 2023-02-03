@@ -1,6 +1,6 @@
-image: devfactory/workspace-full:latest
+image: docker.io/devfactory/workspace-full:latest
 arch: x86
 
 tasks:
   - name: multi-repo-test
-    command: echo "59"
+    command: echo "60"
