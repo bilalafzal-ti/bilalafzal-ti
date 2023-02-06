@@ -1,6 +1,6 @@
-image: gitpod/workspace-full:latest
+image: devfactory/workspace-full:latest
 arch: arm
 
 tasks:
   - name: repo-test
-    command: echo "23"
+    command: echo "24"
