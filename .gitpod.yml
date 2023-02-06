@@ -3,4 +3,4 @@ arch: arm
 
 tasks:
   - name: repo-test
-    command: echo "27"
+    command: echo "28"
