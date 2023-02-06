@@ -1,6 +1,6 @@
-image: docker.io/devfactory/workspace-full
+image: gitpod/workspace-full
 arch: x86
 
 tasks:
   - name: multi-repo-test
-    command: echo "60"
+    command: echo "61"
