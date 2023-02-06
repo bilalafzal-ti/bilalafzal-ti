@@ -1,4 +1,4 @@
-image: gitpod/workspace-full
+image: docker.io/devfactory/workspace-full
 arch: x86
 
 tasks:
