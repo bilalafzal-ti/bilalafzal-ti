@@ -4,4 +4,4 @@ arch: arm
 
 tasks:
   - name: SHell
-    command: echo "log 3"
+    command: echo "log 4"
