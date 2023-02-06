@@ -1,4 +1,4 @@
-image: docker.io/devfactory/workspace-full:latest
+image: gitpod/workspace-full:latest
 arch: arm
 
 tasks:
