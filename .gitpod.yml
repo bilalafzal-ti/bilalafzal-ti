@@ -1,5 +1,5 @@
 image: gitpod/workspace-full:latest
-arch: arm
+arch: x86
 
 
 tasks:
