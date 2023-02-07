@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM gitpod/workspace-full:latest
 
 
 # Install:
