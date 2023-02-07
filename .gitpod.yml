@@ -1,6 +1,6 @@
-image: docker.io/devfactory/workspace-full:latest
+image: gitpod/workspace-full:latest
 arch: arm
 
 tasks:
   - name: repo-test
-    command: echo "324"
+    command: echo "326"
