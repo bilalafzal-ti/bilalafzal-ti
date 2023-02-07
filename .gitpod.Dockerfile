@@ -1,4 +1,4 @@
-FROM ubuntu@sha256:c985bc3f77946b8e92c9a3648c6f31751a7dd972e06604785e47303f4ad47c4c
+FROM ubuntu:latest
 
 # Install:
 # - git (and git-lfs), for git operations (to e.g. push your work).
