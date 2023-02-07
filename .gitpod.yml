@@ -1,4 +1,4 @@
-image: devspaces/workspace-full:latest
+image: gitpod/workspace-full:latest
 arch: arm
 
 tasks:
