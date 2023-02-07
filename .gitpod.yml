@@ -1,6 +1,6 @@
 image: gitpod/workspace-full:latest
-arch: x86
+arch: arm
 
 tasks:
   - name: repo-test
-    command: echo "326"
+    command: echo "327"
