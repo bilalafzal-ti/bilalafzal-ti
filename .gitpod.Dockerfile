@@ -1,1 +1,1 @@
-FROM devfactory/workspace-full:latest
+FROM ubuntu:latest
