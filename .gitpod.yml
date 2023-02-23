@@ -1,6 +1,6 @@
 image:
   file: .gitpod.Dockerfile
-arch: x86
+arch: arm
 
 tasks:
   - name: Shell
