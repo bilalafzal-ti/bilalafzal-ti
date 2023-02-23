@@ -3,4 +3,4 @@ arch: arm
 
 tasks:
   - name: Shell
-    command: echo "log 7"
+    command: echo "log 8"
